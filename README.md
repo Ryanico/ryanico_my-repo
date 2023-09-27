@@ -1,1 +1,3 @@
-My personal codes which I learnt from ALX PROGRAM
+C-PROGRAM CODES
+
+Personal codes which I learnt from ALX PROGRAM
