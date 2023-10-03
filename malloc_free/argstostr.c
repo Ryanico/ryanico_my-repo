@@ -1,11 +1,11 @@
 #include "main.h"
 #include <stdlib.h>
-/**
- *  * argstostr - function that concatenates all the arguments
- *   * @ac: int input
- *    * @av: array double pointer
- *     * Return: 0
- *      */
+/*
+ * argstostr - function that concatenates all the arguments
+ * @ac: int input
+ * @av: array double pointer
+ * Return: 0
+ */
 char *argstostr(int ac, char **av)
 {
 	int i, n, r = 0, l = 0;
